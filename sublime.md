@@ -110,6 +110,8 @@ package control快速安装插件
   3、从网站赵合适的插件
 
 
+ *crtl+shift+c调色盘*
 
+浏览器中打开ctrl+alt+c
 
 
