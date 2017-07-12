@@ -6,6 +6,26 @@
 - 文件夹路径
 - 文件内部导航    @选择器、函数
 
+
+
+### 插件
+
+package control快速安装插件
+
+- 网站packagecontrol.ol
+
+  安装新插件步骤
+
+  1、命令模式ctrl+shift+P
+
+  2、PPI：package control install package
+
+  3、从网站找合适的插件
+
+ *crtl+shift+c调色盘*
+
+ *ctrl+alt+c浏览器中打开* 
+
 ### 快速编辑多行
 
 1，鼠标选中多行，按下 Ctrl Shift L (Command Shift L) 即可同时编辑这些行； 
@@ -20,19 +40,13 @@ ctrl+H     find and replace
 
 输入4*8再按ctrl+shift+y，Emmet能给出最终的结果
 
-Ctrl+Shift+M 选择括号内的内容（继续选择父括号）。举个栗子：快速选中删除
-
-函数中的代码，重写函数体代码或重写括号内里的内容。
+Ctrl+Shift+M 选择括号内的内容（继续选择父括号）。举个栗子：快速选中删除函数中的代码，重写函数体代码或重写括号内里的内容。
 
 Ctrl+M 光标移动至括号内结束或开始的位置。
 
-Ctrl+Enter 在下一行插入新行。举个栗子：即使光标不在行尾，也能快速向下插
+Ctrl+Enter 在下一行插入新行。举个栗子：即使光标不在行尾，也能快速向下插入一行。 
 
-入一行。 
-
-Ctrl+Shift+Enter 在上一行插入新行。举个栗子：即使光标不在行首，也能快速
-
-向上插入一行。
+Ctrl+Shift+Enter 在上一行插入新行。举个栗子：即使光标不在行首，也能快速向上插入一行。
 
 Ctrl+Shift+[ 选中代码，按下快捷键，折叠代码。 
 
@@ -56,62 +70,33 @@ Ctrl+Shift+←向左单位性地选中文本
 
 Ctrl+Shift+→向右单位性地选中文本。
 
-Ctrl+Shift+↑将光标所在行和上一行代码互换（将光标所在行插入到上一行之
+Ctrl+Shift+↑将光标所在行和上一行代码互换（将光标所在行插入到上一行之前）
 
-前）
+Ctrl+Shift+↓将光标所在行和下一行代码互换（将光标所在行插入到下一行之后）。
 
-Ctrl+Shift+↓将光标所在行和下一行代码互换（将光标所在行插入到下一行之
+Ctrl+Alt+↑向上添加多行光标，可同时编辑多行。
 
-后）。
+Ctrl+Alt+↓向下添加多行光标，可同时编辑多行。
 
-Ctrl+Alt+↑
 
-向上添加多行光标，可同时编辑多行。
 
-Ctrl+Alt+↓
-
-向下添加多行光标，可同时编辑多行。
-
- 
-
-更新图片大小（Update Image Size）Demo很多时候在编写HTML代码中的img标题与CSS样式中的background-image时，需要知道图片的宽度与高度，总是在电脑中找到图片查看其尺寸，浪费时间又很不爽。而Emmet为我们提供这一功能，只需将光标移动到img或background-image标签上，按下ctrl+shift+u，Emmet会自动读取图片的尺寸并添加。
+更新图片大小（Update Image Size）Demo很多时候在编写HTML代码中的img标题与CSS样式中的background-image时，需要知道图片的宽度与高度，总是在电脑中找到图片查看其尺寸，浪费时间又很不爽。而Emmet为我们提供这一功能，只需将光标移动到img或background-image标签上，按下**ctrl+shift+u**，Emmet会自动读取图片的尺寸并添加。
 
 
 
 ### 命令模式
 
-ctrl+shift+P
+*ctrl+shift+P*
 
 - 如minimap，如切换语法模式Java、html等（ss-)
 - 减少鼠标的使用，减少快捷键使用
 
 alt+.    关闭标签
 
-ctrl+回车      输入新行
-
 ul.item>li*5
 
 缩进   ctrl+}/]
 
 ctrl+shift+v保持缩进复制
-
-### 插件
-
-package control快速安装插件
-
-- 网站packagecontrol.ol
-
-  安装新插件步骤
-
-  1、命令模式ctrl+shift+P
-
-  2、PPI：package control install package
-
-  3、从网站赵合适的插件
-
-
- *crtl+shift+c调色盘*
-
-浏览器中打开ctrl+alt+c
 
 
