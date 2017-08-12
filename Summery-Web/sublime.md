@@ -26,6 +26,10 @@ package control快速安装插件
 
  *ctrl+alt+c浏览器中打开* 
 
+ctrl+alt+n 创建文件（AdvancedNewFile）
+
+shift+tab——————rindent
+
 ### 快速编辑多行
 
 1，鼠标选中多行，按下 Ctrl Shift L (Command Shift L) 即可同时编辑这些行； 
@@ -43,6 +47,8 @@ ctrl+H     find and replace
 Ctrl+Shift+M 选择括号内的内容（继续选择父括号）。举个栗子：快速选中删除函数中的代码，重写函数体代码或重写括号内里的内容。
 
 Ctrl+M 光标移动至括号内结束或开始的位置。
+
+alt+:arrow_right:移动
 
 Ctrl+Enter 在下一行插入新行。举个栗子：即使光标不在行尾，也能快速向下插入一行。 
 
